@@ -1,0 +1,30 @@
+main {
+    text-align: center;
+    background-color:bisque;
+    border: 2px solid powderblue;
+    padding: 30px;
+ }
+h1 { 
+    font-size: 160%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:midnightblue
+ }
+p { 
+    font-size: 105%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cookie { 
+    background-color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px solid brown;
+    width: 400px;
+    height: 400px;
+    align-content: center;
+    margin: auto;
+}
+.broad { 
+    color: magenta;
+    font-size: 150%;
+}
+
+
